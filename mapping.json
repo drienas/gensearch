@@ -1,0 +1,29 @@
+{
+  "Vehicle": {
+    "id": "",
+    "license_number": "kennzeichen",
+    "vin": "fahrgestellnr",
+    "registration_date": "",
+    "model": "modell",
+    "manufacturer": "hersteller",
+    "customer_reference_id": "",
+    "customer_id": ""
+  },
+  "Customer": {
+    "salutation": "anrede",
+    "reference_id": "kundennummer",
+    "id": "",
+    "entitled_to_deduct_pre_tax": "",
+    "address": "strasse",
+    "postal_code": "plz",
+    "city": "ort",
+    "kind": "",
+    "first_name": "vorname",
+    "name": "nachname",
+    "country": "land",
+    "email": "email",
+    "mobile_phone": "mobil",
+    "phone": "telefon",
+    "vehicles": ""
+  }
+}
